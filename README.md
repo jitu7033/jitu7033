@@ -1,10 +1,14 @@
 # 💫 About Me:
-- Experienced in multiple programming languages and tools, including C, Java, and JavaScript.
+- Experienced in multiple programming languages and tools, including C,C++ Java, and JavaScript.
 - Proficient with Linux environments and containerization technologies like Docker.
-- 
+- proficient in COmpitative programming
+- solve 1000+ problem on many platform like leetcode codeforces 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/feed/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/jitendra17dec2/)
+
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
