@@ -73,12 +73,16 @@ https://codeforces.com/profile/jitendra17dec4
 ---
 
 # 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jitu7033&show_icons=true&theme=dark)
+# 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jitu7033&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitu7033&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitu7033&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=jitu7033&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitu7033&layout=compact&theme=tokyonight)
+
+# 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitu7033&theme=tokyo-night)
 ---
 
 # 📈 Contribution Graph
