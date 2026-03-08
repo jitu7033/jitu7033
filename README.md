@@ -81,9 +81,7 @@ https://codeforces.com/profile/jitendra17dec4
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitu7033&layout=compact&theme=tokyonight)
 
-# 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitu7033&theme=tokyo-night)
----
+
 
 # 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitu7033&theme=github-dark)
