@@ -1,37 +1,49 @@
 # 💫 About Me:
 - 💻 Competitive Programmer with **1000+ problems solved** across platforms.
 - 🚀 Strong knowledge of **Data Structures & Algorithms**.
-- 👨‍💻 Experienced with **C, C++, Java, and JavaScript**.
+- 👨‍💻 Experienced with **C, C++, Java, JavaScript, and TypeScript**.
 - 🐧 Comfortable working in **Linux environments**.
 - 🐳 Familiar with **Docker & containerization**.
-- 🌐 Interested in **Full Stack Web Development (MERN Stack)**.
+- 🌐 Interested in **Full Stack Web Development (MERN / Backend Systems)**.
+- 🏗️ Knowledge of **Microservices Architecture**.
 - ⚡ Passionate about solving challenging algorithmic problems and building scalable systems.
 
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/jitendra-kumar-ab7b94249/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/jitendra17dec2/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/jitendra17dec4)
 
 ---
 
 # 💻 Tech Stack:
 
-### 🧑‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🗄️ Databases
+---
+
+### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+---
 
 ### ⚙️ DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -39,21 +51,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🧠 Problem Solving
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Dynamic Programming  
-- Graph Algorithms  
-- Greedy Algorithms  
+---
+
+### 🏗️ Architecture
+- Microservices Architecture  
+- REST API Development  
+- Backend System Design  
 
 ---
 
-# 📊 GitHub Stats:
-![jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitu7033&show_icons=true&theme=dark)
+# 🧠 Competitive Programming
+- 🔥 **1000+ Problems Solved**
+- 🏆 Active on **LeetCode & Codeforces**
+- 📚 Strong in **Dynamic Programming, Graphs, Greedy, Trees**
+
+**Codeforces Profile**  
+https://codeforces.com/profile/jitendra17dec4
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jitendra17dec4)
 
 ---
 
-# 🔥 Competitive Programming Profiles
-- 💡 **LeetCode:** https://leetcode.com/jitendra17dec2/
-- ⚔️ **Codeforces**
-- 🧠 **1000+ Problems Solved Across Platforms**
+# 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jitu7033&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jitu7033&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitu7033&layout=compact&theme=dark)
+
+---
+
+# 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitu7033&theme=github-dark)
